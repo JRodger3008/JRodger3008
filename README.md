@@ -14,7 +14,7 @@
 
 ## _Full-Stack Web Development Student (CoGrammar/Hyperion Dev)_
 
-Realising the breakneck pace of technological development, and having a deep and inebriating curiosity for technology, AI, and web development; I have decided to learn and hone coding skills in order to begin a career in this space.
+Realising the breakneck pace of technological development, and having a deep and inebriating curiosity for technology, AI, and web development, I have decided to learn and hone coding skills in order to begin a career in this space.
 
 I am currently enrolled on a 16 week Full-Stack Web Developement course (CoGrammar/ Hyperion Dev - DfE), and intend to work towards a full time apprenticeship.
 
