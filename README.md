@@ -23,7 +23,7 @@ Not only would my many years of study and professional experience in Pharmacy be
 
 Within my GitHub account, you will see tasks completed for my course and tasks I've set myself. My course focuses on HTML, CSS, and JavaScript. 
 <br>
-The personal tasks will be programmes I've developed in order to enrich my knowledge of other coding languages not focused on in my Web Development course (e.g Python).  
+The tasks I've set myself will be programmes I've developed in order to enrich my knowledge of other coding languages not focused on in my Web Development course (e.g Python).  
 
 <!--
 
