@@ -13,7 +13,7 @@ My programming journey began with a Full-Stack Web Development bootcamp (**HTML*
 I regularly build personal projects that go beyond course content, using structured learning as a springboard for broader exploration.
 
 Before transitioning into programming, I worked as a Dispensary Assistant in Pharmacy, and also gained experience in animal care and healthcare support. These roles sharpened my attention to detail and accuracy - particularly through prescription dispensing and reviews. They also strengthened my problem-solving skills by assisting patients with over-the-counter (OTC) queries through consultation, recommending suitable treatments, or signposting appropriately. 
-Beyond the technical aspects, these experiences fostered a strong ethic of collaboration and lifelong learning — qualities that continue to shape my growth as a developer.
+Beyond the technical aspects, these experiences fostered a strong ethic of collaboration and lifelong learning - qualities that continue to shape my growth as a developer.
 
 I’m driven by the goal of creating accessible, user-friendly software that bridges the gap between complex technology and real-world needs - empowering users through intuitive and informative tools. I also aspire to contribute to projects in biological sciences and mathematics that challenge the limits of what software can achieve in research settings (though I know this is a big, idealistic dream - one I’m excited to chase).
 
