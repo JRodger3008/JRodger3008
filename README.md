@@ -1,6 +1,6 @@
 
 <h1 align="center"> Hi there! I'm Jordan Rodger 👋</h1>
-<h2 align="center">Aspiring Software Developer | Special interests in Biochemistry, Pharmacology, and Zoology</h2>
+<h2 align="center">Aspiring Software Developer | Special interests in Biochemistry, Healthcare, Education, Psychology, and Zoology</h2>
 
 ### 📫 Contact Me
 
